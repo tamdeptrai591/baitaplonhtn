@@ -1,0 +1,21 @@
+# Build output
+build/
+Debug/
+Release/
+*.o
+*.elf
+*.hex
+*.map
+*.d
+*.su
+*.cyclo
+
+# IDE ca nhan
+.vscode/
+.idea/
+.settings/
+*.user
+
+# File tam cua Word / LibreOffice
+~$*
+.~lock.*#
